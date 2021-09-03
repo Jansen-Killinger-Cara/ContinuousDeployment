@@ -7,9 +7,24 @@
 *.rsuser
 *.suo
 *.user
-*.userosscache
-*.sln.docstates
-
+*.userosscache  azure devops   https://azure.microsoft.com/pt-br/services/devops/
+*.sln.docstates   dotnet --version
+https://download.visualstudio.microsoft.com/download/pr/c1bfbb13-ad09-459c-99aa-8971582af86e/61553270dd9348d7ba29bacfbb4da7bd/dotnet-sdk-5.0.400-win-x64.exe
+* https://dev.azure.com/jansencarasenai/
+* dotnet new blazorserver
+*dotnet run
+*https://portal.azure.com/?Microsoft_Azure_Education_correlationId=ea5d80d08a1148128927aa5039384b29&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=f00265de-19c9-4170-97a3-fe46d32c5b5d#home
+*nr17 ergonomia
+*Custom vision  ovas uso do serviço de borda com analise de stream e enviava para o BI com Chatboot
+*grit flow  tipo de versionamento
+*https://portal.azure.com/?Microsoft_Azure_Education_correlationId=ea5d80d08a1148128927aa5039384b29&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=f00265de-19c9-4170-97a3-fe46d32c5b5d#blade/HubsExtension/DeploymentDetailsBlade/overview/id/%2Fsubscriptions%2Ff00265de-19c9-4170-97a3-fe46d32c5b5d%2FresourceGroups%2FTreinamentoAzure%2Fproviders%2FMicrosoft.Resources%2Fdeployments%2FMicrosoft.Web-WebApp-Portal-ec6ca447-ba71/packageId/Microsoft.WebSite/packageIconUri/https%3A%2F%2Fcatalogartifact.azureedge.net%2Fpublicartifacts%2FMicrosoft.WebSite-2.6.6%2FMedium.png/primaryResourceId/%2Fsubscriptions%2Ff00265de-19c9-4170-97a3-fe46d32c5b5d%2Fresourcegroups%2FTreinamentoAzure%2Fproviders%2FMicrosoft.Web%2Fsites%2Ftreinamentoazurejansen/provisioningHash/customize-post-provisioning-steps-webapp-deployment/createBlade/%7B%22bladeName%22%3A%22AppServiceWebAppCreateV3Blade%22%2C%22extension%22%3A%22WebsitesExtension%22%7D
+*https://portal.azure.com/?Microsoft_Azure_Education_correlationId=ea5d80d08a1148128927aa5039384b29&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=f00265de-19c9-4170-97a3-fe46d32c5b5d#@sesisenaisp.onmicrosoft.com/resource/subscriptions/f00265de-19c9-4170-97a3-fe46d32c5b5d/resourcegroups/TreinamentoAzure/providers/Microsoft.Web/sites/treinamentoazurejansen/appServices
+*
+*
+*
+*
+*
+*
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
